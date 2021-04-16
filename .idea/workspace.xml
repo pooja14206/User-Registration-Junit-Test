@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9735aec7-10c5-453d-8e6f-c3f484719f81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r9hjRiI4TwVNkORsoijD7mFO1A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bridgelabz" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.EmailParaTest">
+    <configuration name="EmailParaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.EmailParaTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EmailParametarizedTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.EmailParametarizedTest&quot; --scan" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FirstNameTest.validateFirstName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.FirstNameTest.validateFirstName[*]&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserValidationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.UserValidationTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserValidationTest.testInvalidFirstName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.UserValidationTest.testInvalidFirstName&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.EmailParaTest" />
+        <item itemvalue="Gradle.EmailParametarizedTest" />
+        <item itemvalue="Gradle.UserValidationTest" />
+        <item itemvalue="Gradle.FirstNameTest.validateFirstName" />
+        <item itemvalue="Gradle.UserValidationTest.testInvalidFirstName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9735aec7-10c5-453d-8e6f-c3f484719f81" name="Default Changelist" comment="" />
+      <created>1618394347973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618394347973</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="552" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1618511475215">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="92" y="92" width="1182" height="552" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.736@0.0.1366.736" timestamp="1618511475215" />
+    <state width="1323" height="153" key="GridCell.Tab.0.bottom" timestamp="1618512727855">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="153" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1618512727855" />
+    <state width="1323" height="153" key="GridCell.Tab.0.center" timestamp="1618512727855">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="153" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1618512727855" />
+    <state width="1323" height="153" key="GridCell.Tab.0.left" timestamp="1618512727855">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="153" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1618512727855" />
+    <state width="1323" height="153" key="GridCell.Tab.0.right" timestamp="1618512727855">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="153" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1618512727855" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1618501701136">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.736@0.0.1366.736" timestamp="1618501701136" />
+    <state x="828" y="123" key="chooseDestDirectoryDialog" timestamp="1618395949555">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="828" y="123" key="chooseDestDirectoryDialog/0.0.1366.736@0.0.1366.736" timestamp="1618395949555" />
+    <state x="390" y="101" width="585" height="534" key="find.popup" timestamp="1618496565329">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="390" y="101" width="585" height="534" key="find.popup/0.0.1366.736@0.0.1366.736" timestamp="1618496565329" />
+    <state x="763" y="0" width="603" height="736" key="new project wizard" timestamp="1618542122219">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="763" y="0" width="603" height="736" key="new project wizard/0.0.1366.736@0.0.1366.736" timestamp="1618542122219" />
+    <state x="765" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1618504396985">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="765" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736@0.0.1366.736" timestamp="1618504396985" />
+  </component>
+</project>
