@@ -11,7 +11,8 @@ public class UserValidator {
     private final String NAME_PATTERN = "^[A-Z]{1}[a-z]{2,10}$";
     private final String PHONE_NUMBER_PATTERN = "[0-9]{2}[\\s][0-9]{10}$";
     private final String PASSWORD_PATTERN = "^(?=.*\\d)([a-z])*(?=.*[A-Z])(?=.*[@#$%^&+=]).{8,}$";
-    private final String EMAIL_PATTERN = "^[a-zA-Z0-9]{1,}[[.|+|-]a-zA-Z0-9]*@[a-zA-Z0-9]{1,}((.){1}+)([a-z]{1,3}+)(.[a-z]{2,3})*$";
+    private final String EMAIL_PATTERN = "^[A-Za-z0-9]+([._%+-]?[a-z0-9])*@[A-Za-z0-9-]+(\\.[a-zA-Z]{2,})(\\.[A-Za-z]{2,})?$";
+
 
     /**
      * @method validateFirstName Check the pattern for first name

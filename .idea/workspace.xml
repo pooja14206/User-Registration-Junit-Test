@@ -11,8 +11,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9735aec7-10c5-453d-8e6f-c3f484719f81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/com/bridgelabz/com/bridgelabz/EmailParametarizedTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/UserValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/UserValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/EmailParametarizedTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/EmailParametarizedTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/bridgelabz/com/bridgelabz/com/bridgelabz/UserValidationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.EmailParametarizedTesting.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.bridgelabz.EmailParametarizedTesting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.bridgelabz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.EmailParametarizedTesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.bridgelabz.EmailParametarizedTesting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/UserValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/UserValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/com/bridgelabz/com/bridgelabz/EmailParametarizedTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/EmailParametarizedTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bridgelabz/com/bridgelabz/com/bridgelabz/UserValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bridgelabz/UserValidationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,22 +210,22 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="92" y="92" width="1182" height="552" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.736@0.0.1366.736" timestamp="1618511475215" />
-    <state width="1323" height="153" key="GridCell.Tab.0.bottom" timestamp="1618512727855">
+    <state width="1323" height="153" key="GridCell.Tab.0.bottom" timestamp="1618577061035">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="153" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1618512727855" />
-    <state width="1323" height="153" key="GridCell.Tab.0.center" timestamp="1618512727855">
+    <state width="1323" height="153" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1618577061035" />
+    <state width="1323" height="153" key="GridCell.Tab.0.center" timestamp="1618577061034">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="153" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1618512727855" />
-    <state width="1323" height="153" key="GridCell.Tab.0.left" timestamp="1618512727855">
+    <state width="1323" height="153" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1618577061034" />
+    <state width="1323" height="153" key="GridCell.Tab.0.left" timestamp="1618577061034">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="153" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1618512727855" />
-    <state width="1323" height="153" key="GridCell.Tab.0.right" timestamp="1618512727855">
+    <state width="1323" height="153" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1618577061034" />
+    <state width="1323" height="153" key="GridCell.Tab.0.right" timestamp="1618577061034">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="153" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1618512727855" />
+    <state width="1323" height="153" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1618577061034" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1618501701136">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -214,14 +234,14 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="828" y="123" key="chooseDestDirectoryDialog/0.0.1366.736@0.0.1366.736" timestamp="1618395949555" />
-    <state x="390" y="101" width="585" height="534" key="find.popup" timestamp="1618496565329">
+    <state x="390" y="101" width="585" height="534" key="find.popup" timestamp="1618572650498">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="390" y="101" width="585" height="534" key="find.popup/0.0.1366.736@0.0.1366.736" timestamp="1618496565329" />
-    <state x="763" y="0" width="603" height="736" key="new project wizard" timestamp="1618542122219">
+    <state x="390" y="101" width="585" height="534" key="find.popup/0.0.1366.736@0.0.1366.736" timestamp="1618572650498" />
+    <state x="763" y="0" width="603" height="736" key="new project wizard" timestamp="1618563297423">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="763" y="0" width="603" height="736" key="new project wizard/0.0.1366.736@0.0.1366.736" timestamp="1618542122219" />
+    <state x="763" y="0" width="603" height="736" key="new project wizard/0.0.1366.736@0.0.1366.736" timestamp="1618563297423" />
     <state x="765" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1618504396985">
       <screen x="0" y="0" width="1366" height="736" />
     </state>

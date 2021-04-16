@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.EmailParametarizedTesting" tests="17" skipped="0" failures="0" errors="0" timestamp="2021-04-16T04:54:30" hostname="DESKTOP-7PU5C3M" time="0.069">
+<testsuite name="com.bridgelabz.EmailParametarizedTesting" tests="22" skipped="0" failures="0" errors="0" timestamp="2021-04-16T12:58:10" hostname="DESKTOP-7PU5C3M" time="0.025">
   <properties/>
-  <testcase name="validatePassword[0]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.004"/>
-  <testcase name="validatePassword[1]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
-  <testcase name="validatePassword[2]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[0]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.003"/>
+  <testcase name="validatePassword[1]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[2]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
   <testcase name="validatePassword[3]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
-  <testcase name="validatePassword[4]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
-  <testcase name="validatePassword[5]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
-  <testcase name="validatePassword[6]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
-  <testcase name="validatePassword[7]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
-  <testcase name="validatePassword[8]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
+  <testcase name="validatePassword[4]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
+  <testcase name="validatePassword[5]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[6]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[7]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[8]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
   <testcase name="validatePassword[9]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
   <testcase name="validatePassword[10]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
-  <testcase name="validatePassword[11]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
-  <testcase name="validatePassword[12]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
-  <testcase name="validatePassword[13]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[11]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[12]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[13]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
   <testcase name="validatePassword[14]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
-  <testcase name="validatePassword[15]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.048"/>
-  <testcase name="validatePassword[16]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[15]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.002"/>
+  <testcase name="validatePassword[16]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
+  <testcase name="validatePassword[17]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[18]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
+  <testcase name="validatePassword[19]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[20]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.001"/>
+  <testcase name="validatePassword[21]" classname="com.bridgelabz.EmailParametarizedTesting" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

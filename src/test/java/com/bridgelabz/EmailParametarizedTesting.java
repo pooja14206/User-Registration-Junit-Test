@@ -30,17 +30,17 @@ public class EmailParametarizedTesting {
         list.add(new Object[]{"abc+100@gmail.com",true});
         list.add(new Object[]{"abc",false});
         list.add(new Object[]{" abc@.com.my ",false});
-        //list.add(new Object[]{"abc123@gmail.a",false});
+        list.add(new Object[]{"abc123@gmail.a",false});//
         list.add(new Object[]{"abc123@.com",false});
-        //list.add(new Object[]{"abc123@.com.com",false});
+        list.add(new Object[]{"abc123@.com.com",false});
         list.add(new Object[]{".abc@abc.com ",false});
         list.add(new Object[]{"abc()*@gmail.com",false});
         list.add(new Object[]{"abc@%*.com",false});
         list.add(new Object[]{"abc..2002@gmail.com ",false});
-        //list.add(new Object[]{"abc.@gmail.com",false});
-        //list.add(new Object[]{"abc@abc@gmail.com",false});
+        list.add(new Object[]{"abc.@gmail.com",false});//
+        list.add(new Object[]{"abc@abc@gmail.com",false});
         list.add(new Object[]{"abc@gmail.com.1a",false});
-        //list.add(new Object[]{"abc@gmail.com.aa.au",false});
+        list.add(new Object[]{"abc@gmail.com.aa.au",false});
         return list;
     }
 
