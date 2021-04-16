@@ -1,5 +1,6 @@
-package com.bridgelabz;
+package com.bridgelabz.com.bridgelabz.com.bridgelabz;
 
+import com.bridgelabz.UserValidator;
 import org.junit.Assert;
 import org.junit.Test;
 
